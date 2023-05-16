@@ -40,7 +40,7 @@ export default function SideMenu({
           description={
             <>
               The upload is not available on the current website. You can
-              <a href="https://github.com/3Alan/DocsMind" target="__blank">
+              <a href="@anmol" target="__blank">
                 {' '}
                 fork and clone the project{' '}
               </a>
@@ -53,7 +53,7 @@ export default function SideMenu({
       )}
 
       <div className="mt-2 flex justify-between items-center">
-        <span className="text-xs text-gray-500">Made by Alan</span>
+        <span className="text-xs text-gray-500">Made by Anmol Sharma</span>
 
         <Space>
           <Button
